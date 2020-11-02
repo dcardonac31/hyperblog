@@ -3,7 +3,7 @@ Un blog increíble para el curso de [**Git y Github de Platzi**](https://platzi.
 
 >El curso de Git y Github de Platzi es lo que me hacía falta para saber manejar ver el sistema de versionamiento mas utilizado en la actualidad.
 
-`<HTML><p><img src=https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png" width="100%"/></p></HTML>`
+[![Git](https://git-scm.com/images/logo@2x.png "Git")](https://git-scm.com/images/logo@2x.png "Git")
 
 
 ## En este curso vemos de todo:
