@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a: 
+# hyperblog 💚 
 Un blog increíble para el curso de [**Git y Github de Platzi**](https://platzi.com/clases/git-github/ "Git y Github de Platzi")
 
 >El curso de Git y Github de Platzi es lo que me hacía falta para saber manejar ver el sistema de versionamiento mas utilizado en la actualidad.
